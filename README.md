@@ -4,7 +4,7 @@ Homestayku.my is my 2nd year 1st semester workshop project using PHP, MYSQL AND 
 ![alt tag](https://github.com/aloptrbl/homestayku.my/blob/master/screenshot/3.jpg)
 ![alt tag](https://github.com/aloptrbl/homestayku.my/blob/master/screenshot/4.jpg)
 ![alt tag](https://github.com/aloptrbl/homestayku.my/blob/master/screenshot/9.jpg)
-![alt tag](https://github.com/aloptrbl/homestayku.my/blob/master/screenshot/6.jpg)
+![alt tag](https://github.com/aloptrbl/homestayku.my/blob/master/screenshot/5.jpg)
 ![alt tag](https://github.com/aloptrbl/homestayku.my/blob/master/screenshot/7.jpg)
 ![alt tag](https://github.com/aloptrbl/homestayku.my/blob/master/screenshot/8.jpg)
 ## Getting Started
