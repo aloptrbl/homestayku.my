@@ -1,6 +1,6 @@
 # HOMESTAYKU.MY
 Homestayku.my is my 2nd year 1st semester workshop project using PHP, MYSQL AND Bootstrap.
-![alt tag](https://github.com/aloptrbl/homestayku.my/blob/master/screenshot/2.jpg)
+![alt tag](https://github.com/aloptrbl/homestayku.my/blob/master/screenshot/2.jpg | width=100)
 ## Getting Started
 
 To begin using project, choose one of the following options to get started:
