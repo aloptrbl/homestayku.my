@@ -1,0 +1,171 @@
+body {
+  color: white;
+font-family: 'Questrial', sans-serif;
+}
+
+.active {
+  color: white;
+  text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+}
+
+.content-area {
+  border: 1px solid black;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.sample-show-hide {
+  transition: all linear 0.5s;
+}
+.sample-show-hide.ng-hide {
+  opacity: 0;
+}
+
+
+
+#map {
+  width: 100%;
+  height: 400px;
+  background-color: grey;
+}
+
+.header-title {
+font-family: 'Questrial', sans-serif;
+}
+
+.btn-search-homestay {
+  background-color: #4CAF50; /* Green */
+border-radius: 20px;
+color: white;
+font-size: 16px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+-webkit-transition-duration: 0.4s; /* Safari */
+transition-duration: 0.4s;
+cursor: pointer;
+outline: none;
+}
+
+.button3 {
+  background-color: rgba(255, 255, 255, 0.46);
+    color: rgb(247, 247, 247);
+    border: 2px solid rgb(255, 255, 255);
+    padding-left: 20px;
+    padding-right: 20px;
+    outline:0 !important;
+}
+
+.button3:hover {
+    background-color: #ff585f;
+    color: white;
+    outline:0 !important;
+}
+
+.card-background {
+  background: rgba(76, 36, 36, 0.5);
+  border: none;
+}
+.card {
+  color: white;
+}
+
+.black {
+  color: black;
+}
+
+
+input#search-homestay {
+  border-radius: 20px;
+}
+.panels {
+background-color:  rgba(255, 255, 255, 0.39);
+}
+.panel-redpink {
+  background: -webkit-linear-gradient(to left, #f857a6 , #ff5858);
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(to left, #f857a6 , #ff5858);
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(to left, #f857a6 , #ff5858);
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to left, #f857a6 , #ff5858);
+  /* Standard syntax */
+  color:white;
+}
+
+.background-blur {
+  background: url(../images/ss.jpg);
+  background-size: cover;
+    display: block;
+    filter: blur(50px);
+    -webkit-filter: blur(50px);
+    height: 800px;
+    left: 0;
+    position: fixed;
+    right: 0;
+    z-index: 0;
+    margin: -50px;
+  }
+
+.sidebar1 {
+    background: #F17153;
+    /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(to left, #f857a6 , #ff5858);
+    /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(to left, #f857a6 , #ff5858);
+    /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(to left, #f857a6 , #ff5858);
+    /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to left, #f857a6 , #ff5858);
+    /* Standard syntax */
+    padding: 0px;
+    min-height: 100%;
+    border-bottom-right-radius: 25px;
+}
+.logo {
+    max-height: 130px;
+}
+.img {
+    margin-top: 30px;
+    padding: 3px;
+    border: 3px solid white;
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.list {
+    color: #fff;
+    list-style: none;
+    padding-left: 0px;
+}
+.list::first-line {
+    color: rgba(255, 255, 255, 0.5);
+}
+.list> li, h5 {
+    padding: 5px 0px 5px 40px;
+    font-weight: bolder;
+}
+a.nav-li, a.nav-li:link {
+  text-decoration: none;
+  color:white;
+}
+a.nav-li:hover{
+  text-decoration: none;
+  color: #ecf0f1;
+}
+a.nav-li:active, {
+  text-decoration: none;
+  color: #ecf0f1;
+}
+.list>li:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-left: 5px solid white;
+    color: white;
+    font-weight: bolder;
+    padding-left: 35px;
+}.main-content{
+text-align:center;
+}
