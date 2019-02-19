@@ -1,6 +1,6 @@
 # HOMESTAYKU.MY
 Homestayku.my is my 2nd year 1st semester workshop project using PHP, MYSQL AND Bootstrap.
-
+![alt tag](https://github.com/aloptrbl/homestayku.my/blob/master/screenshot/2.jpg)
 ## Getting Started
 
 To begin using project, choose one of the following options to get started:
@@ -10,9 +10,9 @@ To begin using project, choose one of the following options to get started:
 
 ## Getting Started
 
-Copy homestayku.my folder into xampp/wampp or offline server.
-Import homestayku_my.sql to database.
-Open url localhost/homestayku.my to access the project.
+*Copy homestayku.my folder into xampp/wampp or offline server.
+*Import homestayku_my.sql to database.
+*Open url localhost/homestayku.my to access the project.
 
 ## Creator
 
